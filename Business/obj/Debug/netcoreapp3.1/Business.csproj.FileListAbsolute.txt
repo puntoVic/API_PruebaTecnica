@@ -1,0 +1,14 @@
+D:\Proyectos\GBM\Intento4\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\Proyectos\GBM\Intento4\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\Proyectos\GBM\Intento4\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\Proyectos\GBM\Intento4\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Proyectos\GBM\Intento4\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Proyectos\GBM\Intento4\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Proyectos\GBM\Intento4\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Proyectos\GBM\Intento4\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+D:\Proyectos\GBM\Intento4\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\Proyectos\GBM\Intento4\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\Proyectos\GBM\Intento4\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\Proyectos\GBM\Intento4\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\Proyectos\GBM\Intento4\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\Proyectos\GBM\Intento4\Business\obj\Debug\netcoreapp3.1\Business.pdb
