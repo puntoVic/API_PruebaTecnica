@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\GBM\\Intento4\\API_TestGBM\\API_TestGBM.csproj": {}
+    "D:\\Proyectos\\GBM\\API_TestGBM\\API_TestGBM\\API_TestGBM.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\GBM\\Intento4\\API_TestGBM\\API_TestGBM.csproj": {
+    "D:\\Proyectos\\GBM\\API_TestGBM\\API_TestGBM\\API_TestGBM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\GBM\\Intento4\\API_TestGBM\\API_TestGBM.csproj",
+        "projectUniqueName": "D:\\Proyectos\\GBM\\API_TestGBM\\API_TestGBM\\API_TestGBM.csproj",
         "projectName": "API_TestGBM",
-        "projectPath": "D:\\Proyectos\\GBM\\Intento4\\API_TestGBM\\API_TestGBM.csproj",
+        "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\API_TestGBM\\API_TestGBM.csproj",
         "packagesPath": "C:\\Users\\volve\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\GBM\\Intento4\\API_TestGBM\\obj\\",
+        "outputPath": "D:\\Proyectos\\GBM\\API_TestGBM\\API_TestGBM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Proyectos\\GBM\\Intento4\\Business\\Business.csproj": {
-                "projectPath": "D:\\Proyectos\\GBM\\Intento4\\Business\\Business.csproj"
+              "D:\\Proyectos\\GBM\\API_TestGBM\\Business\\Business.csproj": {
+                "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Business\\Business.csproj"
               },
-              "D:\\Proyectos\\GBM\\Intento4\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Proyectos\\GBM\\Intento4\\Entities\\Entities.csproj"
+              "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\Proyectos\\GBM\\Intento4\\Business\\Business.csproj": {
+    "D:\\Proyectos\\GBM\\API_TestGBM\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\GBM\\Intento4\\Business\\Business.csproj",
+        "projectUniqueName": "D:\\Proyectos\\GBM\\API_TestGBM\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\Proyectos\\GBM\\Intento4\\Business\\Business.csproj",
+        "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\volve\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\GBM\\Intento4\\Business\\obj\\",
+        "outputPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -112,11 +112,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Proyectos\\GBM\\Intento4\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Proyectos\\GBM\\Intento4\\DataAccess\\DataAccess.csproj"
+              "D:\\Proyectos\\GBM\\API_TestGBM\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\DataAccess\\DataAccess.csproj"
               },
-              "D:\\Proyectos\\GBM\\Intento4\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Proyectos\\GBM\\Intento4\\Entities\\Entities.csproj"
+              "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj"
               }
             }
           }
@@ -149,14 +149,14 @@
         }
       }
     },
-    "D:\\Proyectos\\GBM\\Intento4\\DataAccess\\DataAccess.csproj": {
+    "D:\\Proyectos\\GBM\\API_TestGBM\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\GBM\\Intento4\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Proyectos\\GBM\\API_TestGBM\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Proyectos\\GBM\\Intento4\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\volve\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\GBM\\Intento4\\DataAccess\\obj\\",
+        "outputPath": "D:\\Proyectos\\GBM\\API_TestGBM\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -177,8 +177,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Proyectos\\GBM\\Intento4\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Proyectos\\GBM\\Intento4\\Entities\\Entities.csproj"
+              "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj"
               }
             }
           }
@@ -227,14 +227,14 @@
         }
       }
     },
-    "D:\\Proyectos\\GBM\\Intento4\\Entities\\Entities.csproj": {
+    "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\GBM\\Intento4\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Proyectos\\GBM\\Intento4\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\volve\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\GBM\\Intento4\\Entities\\obj\\",
+        "outputPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
