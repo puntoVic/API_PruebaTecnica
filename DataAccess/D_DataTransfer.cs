@@ -24,9 +24,18 @@ namespace DataAccess
             _db.Dispose();
         }
 
-        public bool Guardar()
+        public bool Save()
         {
-            _db.SaveChanges();
+            try
+            {
+                _db.SaveChanges();
+                return true;
+
+            }
+            catch 
+            {
+                return false;
+            }
         }
     }
 }

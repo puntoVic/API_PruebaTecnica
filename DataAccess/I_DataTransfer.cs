@@ -6,6 +6,6 @@ namespace DataAccess
 {
     interface I_DataTransfer: IDisposable
     {
-        public bool Guardar();
+        public bool Save();
     }
 }
