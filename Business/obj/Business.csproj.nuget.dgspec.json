@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\GBM\\API_TestGBM\\Business\\Business.csproj": {}
+    "D:\\Proyectos\\GBM_FeedbackUpdate\\Business\\Business.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\GBM\\API_TestGBM\\Business\\Business.csproj": {
+    "D:\\Proyectos\\GBM_FeedbackUpdate\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\GBM\\API_TestGBM\\Business\\Business.csproj",
+        "projectUniqueName": "D:\\Proyectos\\GBM_FeedbackUpdate\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Business\\Business.csproj",
+        "projectPath": "D:\\Proyectos\\GBM_FeedbackUpdate\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\volve\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Business\\obj\\",
+        "outputPath": "D:\\Proyectos\\GBM_FeedbackUpdate\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Proyectos\\GBM\\API_TestGBM\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\DataAccess\\DataAccess.csproj"
+              "D:\\Proyectos\\GBM_FeedbackUpdate\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Proyectos\\GBM_FeedbackUpdate\\DataAccess\\DataAccess.csproj"
               },
-              "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj"
+              "D:\\Proyectos\\GBM_FeedbackUpdate\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Proyectos\\GBM_FeedbackUpdate\\Entities\\Entities.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Proyectos\\GBM\\API_TestGBM\\DataAccess\\DataAccess.csproj": {
+    "D:\\Proyectos\\GBM_FeedbackUpdate\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\GBM\\API_TestGBM\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Proyectos\\GBM_FeedbackUpdate\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\Proyectos\\GBM_FeedbackUpdate\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\volve\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\GBM\\API_TestGBM\\DataAccess\\obj\\",
+        "outputPath": "D:\\Proyectos\\GBM_FeedbackUpdate\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj"
+              "D:\\Proyectos\\GBM_FeedbackUpdate\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Proyectos\\GBM_FeedbackUpdate\\Entities\\Entities.csproj"
               }
             }
           }
@@ -147,14 +147,14 @@
         }
       }
     },
-    "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj": {
+    "D:\\Proyectos\\GBM_FeedbackUpdate\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Proyectos\\GBM_FeedbackUpdate\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Proyectos\\GBM_FeedbackUpdate\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\volve\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\obj\\",
+        "outputPath": "D:\\Proyectos\\GBM_FeedbackUpdate\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

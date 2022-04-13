@@ -644,11 +644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\Proyectos\\GBM_FeedbackUpdate\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\Entities.csproj",
+      "projectPath": "D:\\Proyectos\\GBM_FeedbackUpdate\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\volve\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\GBM\\API_TestGBM\\Entities\\obj\\",
+      "outputPath": "D:\\Proyectos\\GBM_FeedbackUpdate\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

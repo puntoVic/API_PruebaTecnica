@@ -11,7 +11,6 @@ namespace DataAccess
     {
         
         public DbSet<Issuer> Issuers { get; set; }
-        public DbSet<Issuer> Stocks { get; set; }
         public DbSet<Account> Accounts { get; set; }
         public DbSet<Transaction> Transactions { get; set; }
 
