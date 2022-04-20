@@ -9,7 +9,14 @@ namespace DataAccess
 {
     public class Context : DbContext
     {
-        
+        private readonly static Context _instance = new Context();
+        private Context() { }
+        public static Context Instance 
+        {
+            get
+            {
+                return _instance;            }
+        }
         public DbSet<Issuer> Issuers { get; set; }
         public DbSet<Account> Accounts { get; set; }
         public DbSet<Transaction> Transactions { get; set; }
@@ -34,6 +41,11 @@ namespace DataAccess
         }
 
         
+
+
+        
+
+
     }
 }
 

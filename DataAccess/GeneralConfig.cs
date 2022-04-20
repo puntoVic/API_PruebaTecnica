@@ -8,8 +8,6 @@ namespace DataAccess
     {
         public static string Connstring { get; set; }
 
-        internal static Context DBContext = new Context();
-
         static GeneralConfig()
         {
         }

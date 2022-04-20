@@ -16,7 +16,7 @@ namespace API_GBM_Test
 
             Account response = _accountController.Post(account);
 
-            Assert.True(B_Account.IsValidAccount(response) && response.Cash == 0 && response.AccountId == 0);
+            Assert.True(BusinessAccount.IsValidAccount(response) && response.Cash == 0 && response.AccountId == 0);
         }
     }
 }

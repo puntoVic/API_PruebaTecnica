@@ -17,7 +17,7 @@ namespace API_GBM_Test
 
             Account response = _accountController.Post(account);
 
-            Assert.True(B_Account.IsValidAccount(response));
+            Assert.True(BusinessAccount.IsValidAccount(response));
         }
         [Fact]
         public void ResponseIsRightAccount()
@@ -26,7 +26,7 @@ namespace API_GBM_Test
 
             Account response = _accountController.Post(account);
 
-            Assert.True(B_Account.IsValidAccount(response) && response.Cash == 60000);
+            Assert.True(BusinessAccount.IsValidAccount(response) && response.Cash == 60000);
         }
     }
 }

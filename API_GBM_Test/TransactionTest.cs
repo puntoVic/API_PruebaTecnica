@@ -36,7 +36,7 @@ namespace API_GBM_Test
         {
             Response response = _transactionController.Transaction(RightPurchase);
 
-            Assert.True(B_Transaction.IsValidResponse(response) && response.Bussines_Errors.Count == 0);
+            Assert.True(BusinessTransaction.IsValidResponse(response) && response.Bussines_Errors.Count == 0);
         }
 
 
@@ -45,7 +45,7 @@ namespace API_GBM_Test
         {
             Response response = _transactionController.Transaction(RightSale);
 
-            Assert.True(B_Transaction.IsValidResponse(response) && response.Bussines_Errors.Count == 0);
+            Assert.True(BusinessTransaction.IsValidResponse(response) && response.Bussines_Errors.Count == 0);
         }
 
     }

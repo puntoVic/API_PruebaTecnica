@@ -78,49 +78,49 @@ namespace API_GBM_Test
         {
             Response response = _transactionController.Transaction(transactionWrongOperation);
 
-            Assert.True(B_Transaction.IsValidResponse(response) && response.Bussines_Errors.Count > 0);
+            Assert.True(BusinessTransaction.IsValidResponse(response) && response.Bussines_Errors.Count > 0);
         }
         [Fact]
         public void WrongSharesPricesPurchase()
         {
             Response response = _transactionController.Transaction(PurchaseWrongShares);
 
-            Assert.True(B_Transaction.IsValidResponse(response) && response.Bussines_Errors.Count>0);
+            Assert.True(BusinessTransaction.IsValidResponse(response) && response.Bussines_Errors.Count>0);
         }
         [Fact]
         public void WrongTotalSharesPurchase()
         {
             Response response = _transactionController.Transaction(PurchaseWrongTotalShares);
 
-            Assert.True(B_Transaction.IsValidResponse(response) && response.Bussines_Errors.Count > 0);
+            Assert.True(BusinessTransaction.IsValidResponse(response) && response.Bussines_Errors.Count > 0);
         }
         [Fact]
         public void WrongAccountPurchase()
         {
             Response response = _transactionController.Transaction(PurchaseWrongAccount);
 
-            Assert.True(B_Transaction.IsValidResponse(response) && response.Bussines_Errors.Count > 0);
+            Assert.True(BusinessTransaction.IsValidResponse(response) && response.Bussines_Errors.Count > 0);
         }
         [Fact]
         public void WrongSharesPricesSale()
         {
             Response response = _transactionController.Transaction(sellWrongShares);
 
-            Assert.True(B_Transaction.IsValidResponse(response) && response.Bussines_Errors.Count > 0);
+            Assert.True(BusinessTransaction.IsValidResponse(response) && response.Bussines_Errors.Count > 0);
         }
         [Fact]
         public void WrongTotalSharesSale()
         {
             Response response = _transactionController.Transaction(sellWrongTotalShares);
 
-            Assert.True(B_Transaction.IsValidResponse(response) && response.Bussines_Errors.Count > 0);
+            Assert.True(BusinessTransaction.IsValidResponse(response) && response.Bussines_Errors.Count > 0);
         }
         [Fact]
         public void WrongAccountSale()
         {
             Response response = _transactionController.Transaction(sellWrongAccount);
 
-            Assert.True(B_Transaction.IsValidResponse(response) && response.Bussines_Errors.Count > 0);
+            Assert.True(BusinessTransaction.IsValidResponse(response) && response.Bussines_Errors.Count > 0);
         }
     }
 }

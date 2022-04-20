@@ -21,7 +21,7 @@ namespace API_TestGBM.Controllers
         public Account Post([FromBody] Account account)
         {
             
-            if (B_Account.CeateAccount(account) == 0)
+            if (BusinessAccount.CeateAccount(account) == 0)
             {
                 account.Cash = 0;
             }

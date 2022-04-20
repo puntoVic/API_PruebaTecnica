@@ -22,9 +22,9 @@ namespace API_TestGBM.Controllers
         public Response Transaction([FromBody] Transaction transaction)
         {
             if (transaction.Operation == "BUY")
-                return B_Transaction.ExecutePurchase(transaction);
+                return BusinessTransaction.ExecutePurchase(transaction);
             else if (transaction.Operation == "SELL")
-                return B_Transaction.ExecuteSale(transaction);
+                return BusinessTransaction.ExecuteSale(transaction);
             else
             {
                 Response response = new Response();
